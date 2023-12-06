@@ -1,3 +1,5 @@
+package com.keelient.unit1;
+
 public class TypeInferecnceExample {
     public static void main(String[] args) {
         printLambda(s -> s.length());
